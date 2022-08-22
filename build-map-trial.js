@@ -34,3 +34,17 @@ for(var i = 0; i < length; i++){
 
 console.log(sourceMap);
 
+const finalMap = new Map();
+// let namespace = "";
+// list.forEach(function (value, key) {
+//   namespace += list.namespace;
+// })
+
+for(i=0; i<length; i++){
+  var namespace = (list[i].namespace);
+  console.log(namespace);
+  var namespaceId = namespace.split("/");
+  console.log(namespaceId);
+}
+
+
