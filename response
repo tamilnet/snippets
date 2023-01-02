@@ -1,0 +1,152 @@
+{
+    "status": 200,
+    "message": "Course found.",
+    "data": {
+        "_id": "6361ffdf517b24ee5599f50a",
+        "email": "kiet.lakhi@fallinhay.com",
+        "instructorId": "6360c5051a35b1603e0cd97b",
+        "userType": "INSTRUCTOR",
+        "courseCode": "4867b9a3-dce5-4476-8d36-1801187dd416",
+        "courseName": "GFDGFD",
+        "courseType": "IT",
+        "learners": [],
+        "courseOverview": "<p>dfdddddddd</p>",
+        "catogory": "CA1003",
+        "subCategory": "SC1009",
+        "currency": "INR",
+        "fee": 100,
+        "thumbNailImagePath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/video-1667366872676-success-icon.png",
+        "introVideoPath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/video-1667366873988-file_intro.mp4",
+        "courseStatus": "UPDATED",
+        "createdTime": "2022-11-02T05:27:59.532Z",
+        "updatedTime": "2022-11-07T04:41:56.446Z",
+        "chapterList": [
+            {
+                "chapterName": "Chapter 1",
+                "chapterOrder": 1,
+                "lessonList": [
+                    {
+                        "lessonName": "Assessment1",
+                        "lessonOrder": 1,
+                        "resourceDetails": [],
+                        "isCompleted": false,
+                        "lessonStatus": "CREATED",
+                        "isAssesment": true,
+                        "assessmentDetails": [],
+                        "createdTime": "2022-11-02T13:06:09.675Z",
+                        "updatedTime": "2022-11-02T13:06:09.673Z",
+                        "_id": "63626b416d74c9df1394c46e"
+                    },
+                    {
+                        "lessonName": "Lesson test",
+                        "lessonOrder": 2,
+                        "lessonVideoPath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1668486855657-file_intro.mp4",
+                        "lessonVideoName": "file_intro.mp4",
+                        "resourceDetails": [
+                            {
+                                "resourcePath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1668486856052-TestDummy.pdf",
+                                "resourceName": "TestDummy.pdf",
+                                "_id": "637316c8e149845fceb8ad55"
+                            },
+                            {
+                                "resourcePath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1668486856082-dummy.pdf",
+                                "resourceName": "dummy.pdf",
+                                "_id": "637316c8e149845fceb8ad56"
+                            }
+                        ],
+                        "isCompleted": false,
+                        "lessonStatus": "CREATED",
+                        "isAssesment": false,
+                        "assessmentDetails": [],
+                        "createdTime": "2022-11-15T04:34:16.191Z",
+                        "_id": "637316c8e149845fceb8ad54"
+                    },
+                    {
+                        "lessonName": "Lesson three",
+                        "lessonOrder": 3,
+                        "lessonVideoPath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1669187547195-sample.mp4",
+                        "lessonVideoName": "sample.mp4",
+                        "lessonDuration": 13,
+                        "resourceDetails": [],
+                        "isCompleted": false,
+                        "lessonStatus": "CREATED",
+                        "isAssesment": false,
+                        "assessmentDetails": [],
+                        "createdTime": "2022-11-23T07:12:30.677Z",
+                        "_id": "637dc7de5da72c690ee7d101"
+                    },
+                    {
+                        "lessonName": "Lesson four",
+                        "lessonOrder": 4,
+                        "lessonVideoPath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1669218802681-sample.mp4",
+                        "lessonVideoName": "sample.mp4",
+                        "lessonDuration": 12.866667,
+                        "resourceDetails": [],
+                        "isCompleted": false,
+                        "lessonStatus": "UPDATED",
+                        "isAssesment": false,
+                        "assessmentDetails": [],
+                        "createdTime": "2022-11-23T07:19:03.367Z",
+                        "updatedTime": "2022-11-23T15:53:26.889Z",
+                        "_id": "637dc967ce18ab69dc00a688"
+                    },
+                    {
+                        "lessonName": "Lesson five",
+                        "lessonOrder": 5,
+                        "lessonVideoPath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1669218856548-sample.mp4",
+                        "lessonVideoName": "sample.mp4",
+                        "lessonDuration": 12.866667,
+                        "resourceDetails": [],
+                        "isCompleted": false,
+                        "lessonStatus": "CREATED",
+                        "isAssesment": false,
+                        "assessmentDetails": [],
+                        "createdTime": "2022-11-23T15:54:20.571Z",
+                        "_id": "637e422c252aa6bbe1020936"
+                    },
+                    {
+                        "lessonName": "Lesson six",
+                        "lessonOrder": 6,
+                        "lessonVideoPath": "https://ql-files.s3.ap-south-1.amazonaws.com/course/lesson-1669221189976-sample.mp4",
+                        "lessonVideoName": "sample.mp4",
+                        "lessonDuration": 13,
+                        "resourceDetails": [],
+                        "isCompleted": false,
+                        "lessonStatus": "UPDATED",
+                        "isAssesment": false,
+                        "assessmentDetails": [],
+                        "createdTime": "2022-11-23T16:21:53.851Z",
+                        "updatedTime": "2022-11-23T16:33:13.640Z",
+                        "_id": "637e48a1d652b4a1727e027b"
+                    }
+                ],
+                "isCompleted": false,
+                "chapterDuration": 51.600001,
+                "chapterStatus": "CREATED",
+                "createdTime": "2022-11-02T13:05:50.147Z",
+                "updatedTime": "2022-11-02T13:05:50.147Z",
+                "_id": "63626b2e6d74c9df1394c462"
+            }
+        ],
+        "liveClassList": [
+            {
+                "liveClassOrder": 1,
+                "topicName": "LIve class Test 7",
+                "date": "2022-11-07T11:47:00.000Z",
+                "timeZone": "indian Standard Time",
+                "liveClassStatus": "CREATED",
+                "saveAfterLive": false,
+                "isLiveCompleted": false,
+                "createdTime": "2022-11-07T11:47:28.001Z",
+                "liveStatus": "INPROGRESS",
+                "liveUUID": "4e5102fc-be91-4e09-8c31-427b0415bc54",
+                "_id": "6368f050ac11e5347545289b"
+            }
+        ],
+        "faqList": [],
+        "__v": 0,
+        "rating": 4,
+        "ratingCount": 1,
+        "totalCourseDuration": 51.600001,
+        "instructorName": "vijay gfddd fd"
+    }

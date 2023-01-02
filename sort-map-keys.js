@@ -39,3 +39,25 @@ const mapSortValue = new Map([...fruitsValueAsString.entries()].sort(function(a,
 console.log(mapSortValue);
 
 // for descending a[1]<b[1] ? 1 : -1    (or)   a[1]>b[1] ? -1 : 1
+
+
+const test = [
+  {
+    "name": "Arul",
+    "createdDate": new Date()
+  },
+  {
+    "name": "Raj",
+    "createdDate": new Date("2022-10-12")
+  }
+]
+
+// console.log(test.sort())
+// ascending
+console.log(test.sort((function(a, b) {
+  return a.createdDate > b.createdDate;
+})));
+// desc
+console.log(test.sort((function(a, b) {
+  return b.createdDate < a.createdDate;
+})));
