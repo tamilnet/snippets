@@ -79,6 +79,7 @@ test-output
 # Npm
 node_modules
 node_modules_*
+package-lock.json
 *.tar.gz
 
 # Ignore vscode editor files

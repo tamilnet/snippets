@@ -18,5 +18,5 @@ app.get('/api/hello', (req, res) => {
 })
 
 app.get('/api/hello-null', (req, res) => {
-  res.status(200).json({value: undefined});
+  res.status(200).json({value: undefined, name: "tamil", address: { billing: {city: "chennai", street: undefined}}, hobbies: ["reading", undefined, "running"]});
 })
