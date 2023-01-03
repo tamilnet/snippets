@@ -1,12 +1,18 @@
 var obj = {
   value: undefined,
   name: "tamil",
-  address: {
-    billing: {
+  address: [
+    {
       city: "chennai",
-      street: undefined
+      street: undefined,
+      type: "billing"
+    },
+    {
+      city: "chennai",
+      street: "mount road",
+      type: "shipping"
     }
-  },
+  ],
   hobbies: ["reading", undefined, "running"]
 };
 
